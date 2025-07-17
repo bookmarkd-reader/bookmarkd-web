@@ -1,1 +1,1 @@
-// Simulated Flutter JS
+// Flutter loader stub

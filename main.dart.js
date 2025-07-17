@@ -1,1 +1,2 @@
-// Simulated Dart JS output
+// Simulated main.dart.js
+console.log('Bookmark’d app loaded');
